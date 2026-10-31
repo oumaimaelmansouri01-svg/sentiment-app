@@ -42,5 +42,10 @@ sentiment-app/
 
 | Rôle | Nom | Identifiant GitHub | Travail de la semaine 1 |
 | --- | --- | --- | --- |
-| Membre A | [Nom 1] | [@login] | |
-| Membre B | [Nom 2] | [@login] | |
+| Membre A | EL MANSOURI Oumaima|  | https://github.com/oumaimaelmansouri01-svg/sentiment-app| nitialisation Git, installation des dépendances Python et rédaction des fiches de cadrage
+| Membre B | AZOUGAI Bouthaina | https://github.com/bouthaina2004?tab=projects| |
+
+Vérification des fiches, tests pytest et validation de l'environnement
+| Membre C | Bayari Meryem | [@login] | |
+
+Vérification des fiches, tests pytest et validation de l'environnement
