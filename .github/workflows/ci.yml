@@ -8,5 +8,5 @@ jobs:
         with: { fetch-depth: 0 }
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
-      - run: python -m venv .venv && . .venv/bin/activate && pip install pandas scikit-learn pytest
+      - run: python -m venv .venv && . .venv/bin/activate && pip install pandas scikit-learn "pytest==8.3.*" "shap==0.46.*"
       - run: . .venv/bin/activate && pytest -q
