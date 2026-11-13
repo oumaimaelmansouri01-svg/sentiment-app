@@ -1,0 +1,21 @@
+text,attendu,difficulte,erreur_connue
+"Livraison rapide et produit parfaitement conforme à mes attentes",POSITIVE,,
+"Service client très professionnel et réactif",POSITIVE,,
+"Produit de bonne qualité et emballage soigné",POSITIVE,,
+"Excellent rapport qualité prix je recommande vivement",POSITIVE,,
+"Commande reçue rapidement et sans aucun problème",POSITIVE,,"Prédiction NEGATIVE incorrecte malgré un avis positif"
+"Très satisfait de mon achat je commanderai encore",POSITIVE,,
+"Produit arrivé cassé et inutilisable",NEGATIVE,,
+"Livraison très lente et service client absent",NEGATIVE,,
+"Qualité médiocre je regrette cet achat",NEGATIVE,,"Prédiction POSITIVE incorrecte malgré une critique négative"
+"Commande incomplète et remboursement toujours absent",NEGATIVE,,
+"Le produit ne fonctionne pas et personne ne répond",NEGATIVE,,
+"Très mauvaise expérience je déconseille fortement",NEGATIVE,,"Prédiction POSITIVE malgré une insatisfaction explicite"
+"Je ne suis pas déçu du tout ce produit est excellent",POSITIVE,négation,
+"Je ne recommande absolument pas ce vendeur",NEGATIVE,négation,"Prédiction POSITIVE malgré la négation de la recommandation"
+"Super la livraison est arrivée avec trois semaines de retard",NEGATIVE,ironie,
+"Bravo le service client personne ne répond depuis dix jours",NEGATIVE,ironie,
+"Le produit est joli mais il tombe en panne après deux jours",NEGATIVE,avis mitigé,
+"La livraison était lente mais le produit est vraiment excellent",POSITIVE,avis mitigé,
+"Cette application mobile est rapide et facile à utiliser",POSITIVE,autre domaine,
+"Le restaurant était sale et le repas franchement mauvais",NEGATIVE,autre domaine,

@@ -3,17 +3,17 @@
 > Remplir chaque rubrique en une à trois phrases. Les rubriques marquées (obligatoire) sont vérifiées par `pytest`.
 
 ## Besoin en une phrase (obligatoire)
-
+Détecter automatiquement les avis négatifs afin d'identifier les insatisfactions des clients et faciliter leur traitement.
 
 ## Utilisateur final (obligatoire)
-
+Les collaborateurs du service client et les responsables qualité chargés d'analyser les avis.
 
 ## Approche retenue (obligatoire)
 
 Cocher une seule case :
 
-- [ ] Règles métier
-- [X] Machine learning
+- [x] Règles métier
+- [ ] Machine learning
 - [ ] RAG
 - [ ] Modèle génératif seul
 

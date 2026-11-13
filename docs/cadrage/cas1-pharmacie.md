@@ -3,16 +3,16 @@
 > Remplir chaque rubrique en une à trois phrases. Les rubriques marquées (obligatoire) sont vérifiées par `pytest`.
 
 ## Besoin en une phrase (obligatoire)
-
+Vérifier automatiquement qu'une ordonnance contient les informations obligatoires avant sa validation par le pharmacien.
 
 ## Utilisateur final (obligatoire)
-
+Le pharmacien ou le préparateur en pharmacie responsable du contrôle des ordonnances.
 
 ## Approche retenue (obligatoire)
 
 Cocher une seule case :
 
-- [X] Règles métier
+- [x] Règles métier
 - [ ] Machine learning
 - [ ] RAG
 - [ ] Modèle génératif seul

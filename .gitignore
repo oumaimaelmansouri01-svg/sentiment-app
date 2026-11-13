@@ -29,3 +29,34 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+# TP4
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+!data/jeu_or.csv
+
+# TP5
+!data/avis_exemple.csv
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.pytest_cache/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.streamlit/secrets.toml
+sentiment-app1-upload/
+tp4-tests-qualite/
+tp5-interface/

@@ -8,7 +8,8 @@ from pathlib import Path
 
 RACINE = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(RACINE / "src"))
-from predict import MODELE, charger_modele, predict as _predict  # noqa: E402  (fonctions du TP2)
+from predict import charger_modele  # noqa: E402  (fonctions du TP2)
+from predict import predict as _predict  # noqa: E402
 
 
 class SentimentClassifier:

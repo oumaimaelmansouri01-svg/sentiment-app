@@ -3,10 +3,10 @@
 > Remplir chaque rubrique en une à trois phrases. Les rubriques marquées (obligatoire) sont vérifiées par `pytest`.
 
 ## Besoin en une phrase (obligatoire)
-
+Permettre de consulter un règlement et d'obtenir des réponses fiables aux questions des utilisateurs.
 
 ## Utilisateur final (obligatoire)
-
+Les étudiants et les membres de l'administration qui recherchent des informations dans le règlement.
 
 ## Approche retenue (obligatoire)
 
@@ -14,7 +14,7 @@ Cocher une seule case :
 
 - [ ] Règles métier
 - [ ] Machine learning
-- [X] RAG
+- [x] RAG
 - [ ] Modèle génératif seul
 
 ## Justification (obligatoire, citer au moins deux critères de la grille : (a) données étiquetées, (b) vérifiabilité, (c) coût par requête, (d) conséquence d'une erreur)

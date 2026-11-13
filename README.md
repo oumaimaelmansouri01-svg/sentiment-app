@@ -38,10 +38,10 @@ sentiment-app/
 └── docs/cadrage/    # fiches de cadrage du TP1
 ```
 
-## Membres du binôme
+## Membres du trinôme
 
 | Rôle | Nom | Identifiant GitHub | Travail de la semaine 1 |
 | --- | --- | --- | --- |
-| Membre A | EL MANSOURI Oumaima|  https://github.com/oumaimaelmansouri01-svg/sentiment-app|Initialisation Git, installation des dépendances Python et rédaction des fiches de cadrage
+| Membre A | EL MANSOURI Oumaima|  https://github.com/oumaimaelmansouri01-svg/sentiment-app1|Initialisation Git, installation des dépendances Python et rédaction des fiches de cadrage
 | Membre B | AZOUGAI Bouthaina |https://github.com/bouthaina2004/sentiment-app |Vérification des fiches, tests pytest et validation de l'environnement
 | Membre C | Bayari Meryem |@kuromiav02 |Vérification des fiches, tests pytest et validation de l'environnement
