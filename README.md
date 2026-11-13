@@ -44,4 +44,4 @@ sentiment-app/
 | --- | --- | --- | --- |
 | Membre A | EL MANSOURI Oumaima|  https://github.com/oumaimaelmansouri01-svg/sentiment-app |Initialisation Git, installation des dépendances Python et rédaction des fiches de cadrage
 | Membre B | AZOUGAI Bouthaina |https://github.com/bouthaina2004/sentiment-app |Vérification des fiches, tests pytest et validation de l'environnement
-| Membre C | Bayari Meryem |@kuromiav02 |Vérification des fiches, tests pytest et validation de l'environnement
+| Membre C | Bayari Meryem |https://github.com/kuromiav02/sentimemt-app |Vérification des fiches, tests pytest et validation de l'environnement
